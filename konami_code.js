@@ -17,5 +17,5 @@ function init(e) {
       }
     } else {
       index = 0;
-    }
+    });
 }
